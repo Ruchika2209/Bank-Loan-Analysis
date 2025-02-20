@@ -1,8 +1,8 @@
 # Bank-Loan-Analysis
 Objective: To provide a clear, concise, and insightful overview of a bank's loan portfolio performance.
 Aim: To enable stakeholders (managers, analysts, etc.) to quickly understand key metrics, identify trends, and make informed decisions regarding loan origination, risk management, and overall portfolio health.
-Dashboard Features:
 
+Dashboard Features:
 Key Performance Indicators (KPIs): The dashboard prominently displays critical metrics such as:
 Total Loan Applications
 Total Funded Amount
